@@ -1,4 +1,4 @@
-# Fresh Dictionary Website
+# Fresh Dictionary
 
 A testing API project, the Fresh Dictionary Website offers a range of features to enhance users' vocabulary. By providing word definitions, synonyms, antonyms, pronunciation audio, and example sentences, this website serves as a valuable resource for language learners and enthusiasts.
 
@@ -16,7 +16,7 @@ A testing API project, the Fresh Dictionary Website offers a range of features t
 - CSS: Stylesheet language used for designing the website's layout and appearance.
 - JavaScript: Programming language used to add interactivity and dynamic functionality to the website.
 
-## Usage
+## Usage and Documentation
 
 1. Open the Fresh Dictionary website in a web browser.
 2. Enter a word in the search bar and click the "Search" button.
